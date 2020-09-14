@@ -1,6 +1,5 @@
 # Catatan
 
-hr
 
 
 ## Management Asset
