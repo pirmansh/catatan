@@ -1,4 +1,4 @@
-# Catatan
+# Catatan Revisi
 
 
 
@@ -15,7 +15,7 @@
 ### Fitur Tambahan
 - Akses Kamera
 - Scan Barcode
-
+- Export file exel/PDF
 
 ## IT Ticketing
 
