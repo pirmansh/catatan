@@ -1,11 +1,11 @@
 # catatan
 
 
-###Tambahan untuk tabel Asset:
+### Tambahan untuk tabel Asset:
 
 - Nama Supplier
 - Tanggal pembelian
 
 
-###Tambahan pembuatan tabel:
+### Tambahan pembuatan tabel:
 - Tabel Supplier
