@@ -1,0 +1,11 @@
+1
+2
+3
+4
+5
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/mileni12/public_html
+
+    - /usr/bin/rsync -Paz * $DEPLOYPATH --delete
