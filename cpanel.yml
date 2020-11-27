@@ -6,6 +6,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mileni12/public_html/
+    - export DEPLOYPATH=/home/mileni12/test.milenialnesia.com
 
     - /usr/bin/rsync -Paz * $DEPLOYPATH --delete
